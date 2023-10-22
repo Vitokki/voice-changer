@@ -19,7 +19,7 @@ $ conda activate vcclient-dev
 2. clone repository
 
 ```
-$ git clone https://github.com/w-okada/voice-changer.git
+$ git clone https://github.com/Vitokki/voice-changer.git
 ```
 
 ## For Server Developer
